@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>name</key>
+	<string>Harper</string>
 	<key>ANSIBlackColor</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
@@ -194,12 +196,39 @@
 	AAAZAAAAAAAAAAAAAAAAAAAA2Q==
 	</data>
 	<key>columnCount</key>
-	<integer>90</integer>
-	<key>name</key>
-	<string>Harper</string>
+	<integer>100</integer>
+	<key>fontAllowsDisableAntialias</key>
+	<integer>1</integer>
 	<key>rowCount</key>
-	<integer>50</integer>
+	<integer>30</integer>
+	<key>shellExitAction</key>
+	<integer>1</integer>
 	<key>type</key>
 	<string>Window Settings</string>
+	<key>BackgroundAlphaInactive</key>
+	<real>0.84999999999999998</real>
+	<key>BackgroundSettingsForInactiveWindows</key>
+	<true/>
+	<key>Bell</key>
+	<false/>
+	<key>CursorType</key>
+	<integer>1</integer>
+	<key>Font</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGGBlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+	AAGGoKQHCBESVSRudWxs1AkKCwwNDg8QVk5TU2l6ZVhOU2ZGbGFnc1ZOU05hbWVWJGNs
+	YXNzI0AsAAAAAAAAEBCAAoADXxAQRmlyYUNvZGUtUmVndWxhctITFBUWWiRjbGFzc25h
+	bWVYJGNsYXNzZXNWTlNGb250ohUXWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0Rob
+	VHJvb3SAAQgRGiMtMjc8QktSW2JpcnR2eIuQm6SrrrfJzNEAAAAAAAABAQAAAAAAAAAc
+	AAAAAAAAAAAAAAAAAAAA0w==
+	</data>
+	<key>useOptionAsMetaKey</key>
+	<true/>
+	<key>UseBrightBold</key>
+	<true/>
+	<key>VisualBellOnlyWhenMuted</key>
+	<false/>
+	<key>ShowDimensionsInTitle</key>
+	<false/>
 </dict>
 </plist>
